@@ -13,4 +13,5 @@ demo/
 *.cmp
 *.hack
 *.out
-
+*.zip
+.directory
